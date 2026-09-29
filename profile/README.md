@@ -19,5 +19,7 @@ We open-source our work to support the research community and push the boundarie
 
 ## We are hiring!
 
+**Research intern** positions are open (**Shenzhen**, **Shanghai**).
+
 We are looking for researchers and engineers passionate about panoramic vision, depth estimation, and 3D reconstruction. If you're interested, reach out to us at harryjiang@insta360.com.
 
