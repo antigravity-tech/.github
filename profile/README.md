@@ -1,6 +1,6 @@
 # Antigravity Tech Team @ Insta360
 
-We are the algorithm research team behind Antigravity, incubated by Insta360. Our GitHub organization hosts the official implementations of our research in **panoramic vision, depth estimation, stereo matching, 3D generation**.
+We are the algorithm research team behind Antigravity, incubated by Insta360. Our GitHub organization hosts the official implementations of our research in **panoramic vision, depth estimation, stereo matching, 3D reconstruction and generation**.
 
 We open-source our work to support the research community and push the boundaries of what's possible with panoramic and immersive visual computing.
 
